@@ -1,6 +1,6 @@
 alert('Boas vindas ao jogo do número secreto!');
 
-let numeroSecreto = 29;
+let numeroSecreto = 43;
 let chute;
 let tentativas = 1;
 
